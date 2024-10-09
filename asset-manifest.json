@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blum/static/css/main.3d7e3c83.css",
+    "main.js": "/blum/static/js/main.59df4fa0.js",
+    "static/js/453.0a643747.chunk.js": "/blum/static/js/453.0a643747.chunk.js",
+    "static/media/bomb.svg": "/blum/static/media/bomb.fef0043c4ab6e7ca79776728339c040e.svg",
+    "static/media/star.svg": "/blum/static/media/star.8c0c3b7bab5da3b695f76bb90aece0c6.svg",
+    "index.html": "/blum/index.html",
+    "main.3d7e3c83.css.map": "/blum/static/css/main.3d7e3c83.css.map",
+    "main.59df4fa0.js.map": "/blum/static/js/main.59df4fa0.js.map",
+    "453.0a643747.chunk.js.map": "/blum/static/js/453.0a643747.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d7e3c83.css",
+    "static/js/main.59df4fa0.js"
+  ]
+}
